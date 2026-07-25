@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wt2puz.injectortech.co.nz/sitemap.xml
